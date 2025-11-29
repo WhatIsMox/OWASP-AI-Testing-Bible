@@ -1,0 +1,5 @@
+{
+  "name": "OWASP AI Security Bible",
+  "description": "An interactive, graphical exploration of the OWASP AI Testing Guide v1.0. Visualize threats, explore test cases, and deepen understanding of AI security across Application, Model, Infrastructure, and Data layers.",
+  "requestFramePermissions": []
+}
